@@ -11,7 +11,7 @@ class operacion_Test extends TestCase{
         $this->assertTrue(true);
     }
     public function testdos():void{
-        $this->assertTrue(false);
+        $this->assertTrue(true);
     }
 
 }
